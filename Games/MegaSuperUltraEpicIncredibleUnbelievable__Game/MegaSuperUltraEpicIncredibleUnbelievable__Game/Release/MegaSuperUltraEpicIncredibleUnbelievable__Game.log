@@ -1,0 +1,9 @@
+﻿  Field.cpp
+  Map.cpp
+  Player.cpp
+  Исходный код.cpp
+Исходный код.cpp(16): warning C4800: BOOL: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
+  Создание кода
+c:\users\kiril\desktop\vs projects\megasuperultraepicincredibleunbelievable__game\megasuperultraepicincredibleunbelievable__game\исходный код.cpp(227): warning C4715: DrawCreateMenu: значение возвращается не при всех путях выполнения
+  Создание кода завершено
+  MegaSuperUltraEpicIncredibleUnbelievable__Game.vcxproj -> C:\Users\kiril\Desktop\VS Projects\MegaSuperUltraEpicIncredibleUnbelievable__Game\Release\MegaSuperUltraEpicIncredibleUnbelievable__Game.exe
