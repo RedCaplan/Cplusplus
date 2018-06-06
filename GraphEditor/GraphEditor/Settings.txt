@@ -1,0 +1,6 @@
+3 0 100 40
+Add Graph
+Set Link
+Dijkstra Algorithm
+Remove Graphs(ALL)
+Exit

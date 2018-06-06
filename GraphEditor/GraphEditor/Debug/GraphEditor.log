@@ -1,0 +1,4 @@
+﻿  GraphEditor.cpp
+c:\users\user01\desktop\grapheditor\grapheditor\grapheditor.cpp(74): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\user01\desktop\grapheditor\grapheditor\grapheditor.cpp(75): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+  GraphEditor.vcxproj -> C:\Users\user01\Desktop\GraphEditor\Debug\GraphEditor.exe
