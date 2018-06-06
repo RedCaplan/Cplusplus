@@ -1,0 +1,13 @@
+
+Tutorial:
+  Make full-screen console
+  
+  Press Enter for Add Graph
+  Then Move it with W,A,S,D
+  Press Space for place node
+  
+  After placing nodes - set links (Example: From: 1, To: 2; will make link from node 1 to 2);
+  
+  Select > Dijkstra Algorithm and specify start and end values (Example: From: 0, To: %end%);
+  
+  Great :)
