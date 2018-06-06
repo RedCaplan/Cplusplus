@@ -1,0 +1,24 @@
+﻿  World.cpp
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(12): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(13): warning C4309: инициализация: усечение константного значения
+  Создание кода...
+  Компиляция...
+  main.cpp
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(12): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(13): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\main.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  InputManager.cpp
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(12): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(13): warning C4309: инициализация: усечение константного значения
+  Hero.cpp
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(12): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(13): warning C4309: инициализация: усечение константного значения
+  Enemy.cpp
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(12): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(13): warning C4309: инициализация: усечение константного значения
+  Ball.cpp
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(12): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\base.h(13): warning C4309: инициализация: усечение константного значения
+  Создание кода...
+c:\users\kiril\desktop\vs projects\pingypongo\pingypongo\main.cpp(63): warning C4717: GameLoop: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  PingyPongo.vcxproj -> C:\Users\kiril\Desktop\VS Projects\PingyPongo\Debug\PingyPongo.exe
