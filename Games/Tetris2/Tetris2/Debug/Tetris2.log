@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kiril\onedrive\documents\visual studio 2017\projects\tetris2\tetris2\main.cpp(258): warning C4018: >=: несоответствие типов со знаком и без знака
+  Tetris2.vcxproj -> c:\users\kiril\onedrive\documents\visual studio 2017\Projects\Tetris2\Debug\Tetris2.exe
+  Tetris2.vcxproj -> c:\users\kiril\onedrive\documents\visual studio 2017\Projects\Tetris2\Debug\Tetris2.pdb (Partial PDB)

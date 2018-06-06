@@ -1,0 +1,6 @@
+﻿  main.cpp
+main.cpp(258): warning C4018: >=: несоответствие типов со знаком и без знака
+  Создание кода
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Tetris2.vcxproj -> c:\users\kiril\onedrive\documents\visual studio 2017\Projects\Tetris2\Release\Tetris2.exe
