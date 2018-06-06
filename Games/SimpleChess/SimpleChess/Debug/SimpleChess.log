@@ -1,0 +1,26 @@
+﻿  main.cpp
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.h(23): warning C4309: инициализация: усечение константного значения
+  ChessGame.cpp
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.h(23): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\games\simplechess\simplechess\chessgame.cpp(146): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+c:\users\kiril\desktop\games\simplechess\simplechess\chessgame.cpp(205): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+c:\users\kiril\desktop\games\simplechess\simplechess\chessgame.cpp(1608): warning C4101: j: неиспользованная локальная переменная
+c:\users\kiril\desktop\games\simplechess\simplechess\chessgame.cpp(1608): warning C4101: i: неиспользованная локальная переменная
+  ChessFiguresG.cpp
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.h(23): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(16): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(60): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(60): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(92): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(92): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(125): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(125): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(160): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(160): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(182): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(182): warning C4309: инициализация: усечение константного значения
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(218): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\kiril\desktop\games\simplechess\simplechess\chessfiguresg.cpp(218): warning C4309: инициализация: усечение константного значения
+  Создание кода...
+  SimpleChess.vcxproj -> C:\Users\kiril\Desktop\Games\SimpleChess\Debug\SimpleChess.exe
+  SimpleChess.vcxproj -> C:\Users\kiril\Desktop\Games\SimpleChess\Debug\SimpleChess.pdb (Partial PDB)
