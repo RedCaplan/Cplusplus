@@ -1,1 +1,14 @@
 Move maps into release directory after compiling 
+
+Controls:
+ -Menu
+  [1, 2 ,3 ,4 ,5]
+ -Game
+  [w,a,s,d]
+
+Requirements:
+
+When loading the map write full name of the map together with the .txt (Example: testmap.txt)
+  also when saving
+  
+  
